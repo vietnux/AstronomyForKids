@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Астрономія для дітей</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_info_fragment">Hello info fragment</string>
+    <string name="hello_test_fragment">Hello test fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" />
+    <string name="todo">TODO</string>
+    <string name="test">Тест</string>
+    <string name="falseAnswer">Брехня</string>
+    <string name="trueAnswer">Правда</string>
+    <string name="main_text">Астрономія \nдля \nДітей</string>
+    <string name="name">Name</string>
+    <string name="solar_system">Сонячна система</string>
+    <string name="Universe">Всесвіт</string>
+    <string name="space_exploration">Дослідження космосу</string>
+    <string name="answer">варіант</string>
+    <string name="next_q">Наступне питання</string>
+    <string name="pass_test">Пройти тест</string>
+    <string name="test_quiz">Тестова вікторина</string>
+    <string name="topic_test">Тема</string>
+    <string name="count_test">"Кількість питань: 0 із 10"</string>
+    <string name="forward">Вперед</string>
+    <string name="back">Назад</string>
+    <string name="results">Результати</string>
+    <string name="restart">Пройти ще раз</string>
+    <string name="back_to_info">Повернутись назад</string>
+</resources>

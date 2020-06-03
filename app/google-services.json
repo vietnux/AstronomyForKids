@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268449780296",
+    "firebase_url": "https://astronomydb-2b25f.firebaseio.com",
+    "project_id": "astronomydb-2b25f",
+    "storage_bucket": "astronomydb-2b25f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268449780296:android:ee9de27abff8cd707dbe7d",
+        "android_client_info": {
+          "package_name": "com.example.astronomyforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268449780296-9rtpcs8ca6roo08chu5fgnn2scg0l5ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astronomyforkids",
+            "certificate_hash": "c9ffd2a3774b03948166783c74f612f3299d862e"
+          }
+        },
+        {
+          "client_id": "268449780296-b8f82q7g3b5regdiii26ng6l5dsd8484.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcI1yjYi6kUU539HVqQWY7ni-vvKeVEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268449780296-b8f82q7g3b5regdiii26ng6l5dsd8484.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

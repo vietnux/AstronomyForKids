@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorMain"
+    tools:context=".fragments.menu.MenuPartFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/solar"
+        android:gravity="center"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/buttonSolarSystem"
+            android:layout_width="250dp"
+            android:layout_height="70dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:background="@drawable/button_style_without_solid"
+            android:textAllCaps="false"
+            android:text="@string/solar_system">
+        </Button>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/universe"
+        android:gravity="center"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/buttonUniverse"
+            android:layout_width="250dp"
+            android:layout_height="70dp"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:background="@drawable/button_style_without_solid"
+            android:textAllCaps="false"
+            android:text="@string/Universe"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/space"
+        android:gravity="center"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/buttonSpace"
+            android:layout_width="250dp"
+            android:layout_height="70dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:background="@drawable/button_style_without_solid"
+            android:textAllCaps="false"
+            android:text="@string/space_exploration"
+            tools:ignore="Suspicious0dp">
+        </Button>
+    </LinearLayout>
+
+
+</LinearLayout>

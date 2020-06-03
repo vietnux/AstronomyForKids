@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayoutMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="-3dp"
+    android:background="@drawable/load_back"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".fragments.menu.LoadFragment">
+
+</LinearLayout>
